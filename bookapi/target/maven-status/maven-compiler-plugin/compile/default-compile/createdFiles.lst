@@ -1,0 +1,9 @@
+com\karan\spring\config\MyWebAppInitializer.class
+com\karan\spring\controller\BookController.class
+com\karan\spring\service\BookService.class
+com\karan\spring\config\AppConfig.class
+com\karan\spring\config\WebConfig.class
+com\karan\spring\dao\BookDAO.class
+com\karan\spring\dao\BookDAOImpl.class
+com\karan\spring\model\Book.class
+com\karan\spring\service\BookServiceImpl.class
